@@ -2,10 +2,9 @@
   "name": "grunt-run-last",
   "description": "Always run your latest commands",
   "version": "0.1.0",
-  "homepage": "https://github.com/khanh/grunt-run-last",
+  "homepage": "https://github.com/nqkdev/grunt-run-last",
   "author": {
     "name": "qknguyendev",
-    "email": "qknguyendev@gmail.com"
   },
   "repository": {
     "type": "git",

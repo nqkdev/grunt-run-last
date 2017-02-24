@@ -1,6 +1,6 @@
 /*
  * grunt-run-last
- * https://github.com/khanh/grunt-run-last
+ * https://github.com/nqkdev/grunt-run-last
  *
  * Copyright (c) 2016 qknguyendev
  * Licensed under the MIT license.
