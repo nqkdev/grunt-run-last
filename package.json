@@ -1,0 +1,39 @@
+{
+  "name": "grunt-run-last",
+  "description": "Always run your latest commands",
+  "version": "0.1.0",
+  "homepage": "https://github.com/khanh/grunt-run-last",
+  "author": {
+    "name": "qknguyendev",
+    "email": "qknguyendev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/khanh/grunt-run-last.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khanh/grunt-run-last/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/khanh/grunt-run-last/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
